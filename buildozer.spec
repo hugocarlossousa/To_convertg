@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = VDL SpeedHitter
+title = VDLSHC
 
 # (str) Package name
 package.name = HugoAplication 
